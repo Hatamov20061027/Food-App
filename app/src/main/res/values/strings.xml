@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Food App</string>
+    <string name="menu">Menu</string>
+    <string name="taom_qo_shish">Taom Qo\'shish</string>
+    <string name="taom_noma">Taom Noma</string>
+    <string name="kerakli_mahsuotlar">Kerakli Mahsuotlar</string>
+    <string name="saqlash">Saqlash</string>
+</resources>
